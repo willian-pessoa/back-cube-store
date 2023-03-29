@@ -1,6 +1,7 @@
 {
   "cubes": [
     {
+      "id": "1",
       "name":"Moyu 3x3x3 cube - MeiLong 3C",
       "brand": "MoYu Cube",
       "size": "55.5 ×55.5 ×55.5 mm",
@@ -11,6 +12,7 @@
       "image": "./assets/meilong3x3.jpg"
     },
     {
+      "id": "2",
       "name":"Moyu 5x5x5 cube - MeiLong",
       "brand": "MoYu Cube",
       "size": "62 ×62 ×62 mm",
@@ -21,6 +23,7 @@
       "image": "./assets/meilong5x5.jpg"
     },
     {
+      "id": "3",
       "name":"Moyu 6x6x6 cube - MeiLong",
       "brand": "MoYu Cube",
       "size": "65 ×65 ×65 mm",
