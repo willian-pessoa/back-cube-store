@@ -1,0 +1,34 @@
+{
+  "cubes": [
+    {
+      "name":"Moyu 3x3x3 cube - MeiLong 3C",
+      "brand": "MoYu Cube",
+      "size": "55.5 ×55.5 ×55.5 mm",
+      "weight": "65g",
+      "price": "1.03",
+      "type": "stickerless",
+      "color": "colourful",
+      "image": "./assets/meilong3x3.jpg"
+    },
+    {
+      "name":"Moyu 5x5x5 cube - MeiLong",
+      "brand": "MoYu Cube",
+      "size": "62 ×62 ×62 mm",
+      "weight": "112g",
+      "price": "2.58",
+      "type": "stickerless",
+      "color": "bright-colours",
+      "image": "./assets/meilong5x5.jpg"
+    },
+    {
+      "name":"Moyu 6x6x6 cube - MeiLong",
+      "brand": "MoYu Cube",
+      "size": "65 ×65 ×65 mm",
+      "weight": "172g",
+      "price": "6.46",
+      "type": "stickerless",
+      "color": "colourful",
+      "image": "./assets/meilong6x6.jpg"
+    }
+  ]
+}
